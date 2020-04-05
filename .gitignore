@@ -1,1 +1,6 @@
 .nfs*
+/leftImg8bit/
+/gtFine/
+/gtCoarse/
+*.out
+*.err
