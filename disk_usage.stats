@@ -1,0 +1,6 @@
+98630	gtFine/test
+850714	gtFine/train
+162138	gtFine/val
+369458	gtCoarse/train
+2379286	gtCoarse/train_extra
+64424	gtCoarse/val
