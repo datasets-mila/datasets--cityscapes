@@ -1,4 +1,7 @@
 .nfs*
+*.jugdata/
+/.tmp/
+/logs/
 /leftImg8bit/
 /gtFine/
 /gtCoarse/
